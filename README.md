@@ -1,0 +1,2 @@
+# thursday
+about the project
